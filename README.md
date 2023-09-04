@@ -1,5 +1,5 @@
-# NES_HORI_Four_Square
-The Kicad files for the NES HORI Four Square multitap adapter
+# NES_HORI_Four_Score
+The Kicad files for the NES HORI Four Score multitap adapter
 
 PCB Thickness: 1.6 mm
 
